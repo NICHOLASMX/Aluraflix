@@ -1,0 +1,17 @@
+body {
+    color: white;
+    background: black;
+    }
+
+    header{
+        border: solid 2px rgb(247, 247, 247);
+        padding: 20px;
+        font-size: 32px;
+        color: rgb(243, 237, 241);
+    }
+
+    section{
+    background:rgb(9 38 56);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    }
