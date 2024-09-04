@@ -1,6 +1,7 @@
 body {
     color: white;
     background: black;
+    font-family: "Handjet", sans-serif;
     }
 
     header{
@@ -16,4 +17,8 @@ body {
     padding-top: 80px;
     display: flex;
     justify-content: center;
-    }
+}
+
+.chamada-texto{
+    margin-right: 5%;
+}
